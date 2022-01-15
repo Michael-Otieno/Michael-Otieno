@@ -2,13 +2,13 @@
 #### Software Engineer
 I can help you solve a software problem, build a product or grow an existing product.
 
-Skills: DJANGO/PYTHON / ANGULAR/ JS / HTML / CSS
+Skills: DJANGO/ PYTHON / ANGULAR/ JS / HTML / CSS / Wordpress
 
-- 🌱 I’m currently learning FLASK 
+
 - 👯 I’m looking to collaborate on ANGULAR/DJANGO/VANNILLA JS 
 - 📫 How to reach me: m.otieno205@gmail.com 
 - 😄 Pronouns: HE/HIM 
-- ⚡ Fun fact: I'm married Tech. 
+- ⚡ Fun fact: I love Tech. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Michael-Otieno)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MichaelOtieno/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://michael-otieno.netlify.app/)  
