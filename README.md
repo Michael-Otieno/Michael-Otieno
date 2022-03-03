@@ -13,7 +13,7 @@ _I love web development because it gives me a chance to_ **learn**, **be mentore
 * :seedling: I’m currently learning Scss.
 * :telescope: I’m currently working on Web Based Projects in Angular.
 * :school: Want to learn React.
-* :dancers: I’m looking to collaborate on Angular and Javascript.
+* :dancers: I’m looking to collaborate in Angular and Javascript.
 * :mailbox: You can reach me at: m.otieno205@gmail.com. 
 * :thought_balloon: My dream is to work at google.
 * ⚡ Fun fact: I love Tech.
