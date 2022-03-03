@@ -1,7 +1,7 @@
 <!--### Hi there 👋, I'm Michael Otieno-->
 ___
 
- [<img src="/port.png" alt="image" width="100%" height="500px">](https://github.com/Michael-Otieno)<!--insert portfolio link-->
+ [<img src="/port.png" alt="image" width="1000px" height="400px">](https://github.com/Michael-Otieno)<!--insert portfolio link-->
 
 <!--#### Software Engineer
 I can help you solve a software problem, build a product or grow an existing product.-->
@@ -30,7 +30,7 @@ _I love web development because it gives me a chance to_ **learn**, **be mentore
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![Django](https://img.shields.io/badge/django-%7396.svg?style=for-the-badge&logo=django&logoColor=white&color=0C3C26)
 
-### Tools I Use :wrenchhammer:
+### Tools I Use :wrench:
 ![Ubuntu VM](https://img.shields.io/badge/Ubuntu%20VM-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%777BB4.svg?style=for-the-badge&logo=figma&logoColor=white&color=0acf83)
@@ -44,10 +44,13 @@ _I love web development because it gives me a chance to_ **learn**, **be mentore
 </p>
 
 
+### Connect With Me 🤝🤝
+[<img src="https://img.shields.io/badge/michael otieno-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/michael-otieno-924157217/)
+[<img src = "https://img.shields.io/badge/@justDoCode-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/justDoCode)
+<!--[<img src = "https://img.shields.io/badge/aakarshteja-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/aakarsh.teja)
+[<img src = "https://img.shields.io/badge/aakarshteja-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/aakarshteja/)
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Michael-Otieno)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MichaelOtieno/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://michael-otieno.netlify.app/)  
 
 
 
