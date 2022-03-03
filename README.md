@@ -28,9 +28,9 @@ _I love web development because it gives me a chance to_ **learn**, **be mentore
 ![Angular](https://img.shields.io/badge/angular-%7396.svg?style=for-the-badge&logo=angular&color=FF2D20)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
-![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=f29221)
 ![PostgreSql](https://img.shields.io/badge/postresql-%3776AB.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=4479A1)
-![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+<!-- ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=f29221) -->
+![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=3776AB&color=f29221)
 ![Django](https://img.shields.io/badge/django-%7396.svg?style=for-the-badge&logo=django&logoColor=white&color=0C3C26)
 ![Flask](https://img.shields.io/badge/flask-%7396.svg?style=for-the-badge&logo=flask&logoColor=black&color=white)
 
