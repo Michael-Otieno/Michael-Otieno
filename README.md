@@ -38,6 +38,8 @@ _I love web development because it gives me a chance to_ **learn**, **be mentore
 ![Ubuntu VM](https://img.shields.io/badge/Ubuntu%20VM-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%777BB4.svg?style=for-the-badge&logo=figma&logoColor=white&color=0acf83)
+![Github](https://img.shields.io/badge/github-%777BB4.svg?style=for-the-badge&logo=github&logoColor=white&color=21262d)
+
 
 ### Github Stats :bar_chart:
 <p align="center"> 
