@@ -1,6 +1,11 @@
-### Hi there 👋, I'm Michael Otieno
-#### Software Engineer
-I can help you solve a software problem, build a product or grow an existing product.
+<!--### Hi there 👋, I'm Michael Otieno-->
+___
+
+ [<img src="/port.png" alt="image">](https://github.com/Michael-Otieno)<!--insert portfolio link-->
+
+<!--#### Software Engineer
+I can help you solve a software problem, build a product or grow an existing product.-->
+I love web development because it gives me a chance to **learn**, **be mentored** and **collaborate** with other developers in applying tech skills.
 
 Skills: DJANGO/ PYTHON / ANGULAR/ JS / HTML / CSS / Wordpress
 
