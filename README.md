@@ -32,6 +32,8 @@ _I love web development because it gives me a chance to_ **learn**, **be mentore
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=3776AB&color=f29221)
 ![Django](https://img.shields.io/badge/django-%7396.svg?style=for-the-badge&logo=django&logoColor=white&color=0C3C26)
 ![Flask](https://img.shields.io/badge/flask-%7396.svg?style=for-the-badge&logo=flask&logoColor=black&color=white)
+![Markdown](https://img.shields.io/badge/markdown-%7396.svg?style=for-the-badge&logo=markdown&logoColor=white&color=blue)
+
 <!-- ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=f29221) -->
 
 ### Tools I Use :wrench:
