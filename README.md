@@ -7,7 +7,7 @@ ___
 I can help you solve a software problem, build a product or grow an existing product.-->
 _I love web development because it gives me a chance to_ **learn**, **be mentored** _and_ **collaborate** _with other developers in applying tech skills._
 
-<img align="right" width="350" height="150" src="/Coffee.png">
+<img align="right" width="200" height="150" src="/Coffee.png">
 
 ### About Me 🤓
 * :seedling: I’m currently learning Scss.
