@@ -1,7 +1,7 @@
 <!--### Hi there 👋, I'm Michael Otieno-->
 ___
 
- [<img src="/port.png" alt="image" width="1000px" height="400px">](https://github.com/Michael-Otieno)<!--insert portfolio link-->
+ [<img src="/port.png" alt="image" width="1000px" height="400px">](https://thirsty-yonath-1a164a.netlify.app/dist/index.html)<!--insert portfolio link-->
 
 <!--#### Software Engineer
 I can help you solve a software problem, build a product or grow an existing product.-->
