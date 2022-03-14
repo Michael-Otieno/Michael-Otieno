@@ -10,7 +10,7 @@ _I love web development because it gives me a chance to_ **learn**, **be mentore
 <img align="right" width="200" height="150" src="/Coffee.png">
 
 ### About Me 🤓
-* :seedling: I’m currently learning Scss.
+<!-- * :seedling: I’m currently learning Scss. -->
 * :telescope: I’m currently working on Web Based Projects in Angular.
 * :school: Want to learn React.
 * :dancers: I’m looking to collaborate in Angular and Javascript.
@@ -20,9 +20,10 @@ _I love web development because it gives me a chance to_ **learn**, **be mentore
 *  😄 Pronouns: HE/HIM 
 
 ### My Skills :rocket:
-![WordPress](https://img.shields.io/badge/wordpress-%4479A1.svg?style=for-the-badge&logo=wordpress&logoColor=white&color=4479A1)
+<!-- ![WordPress](https://img.shields.io/badge/wordpress-%4479A1.svg?style=for-the-badge&logo=wordpress&logoColor=white&color=4479A1) -->
 ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
+<!-- ![SCSS](https://img.shields.io/badge/scss-%1572B6.svg?style=for-the-badge&logo=scss&logoColor=CC9999&color=white) -->
 ![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
 ![Angular](https://img.shields.io/badge/angular-%7396.svg?style=for-the-badge&logo=angular&color=FF2D20)
