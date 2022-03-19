@@ -18,7 +18,7 @@ _I love web development because it gives me a chance to_ **learn**, **be mentore
 * :dancers: I’m looking to collaborate in Angular and Javascript.
 * :mailbox: You can reach me at: m.otieno205@gmail.com. 
 * :thought_balloon: My dream is to work at google.
-* ⚡ Fun fact: I love Tech.
+* ⚡ Fun fact: I love Tech and coffee.
 *  😄 Pronouns: HE/HIM 
 
 ### My Skills :rocket:
