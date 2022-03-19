@@ -8,11 +8,12 @@ I can help you solve a software problem, build a product or grow an existing pro
 _I love web development because it gives me a chance to_ **learn**, **be mentored** _and_ **collaborate** _with other developers in applying tech skills._
 
 <img align="right" width="200" height="150" src="/Coffee.png">
+<!-- * :seedling: I’m currently learning Scss. -->
+<!-- * :school: Want to learn React. -->
 
 ### About Me 🤓
-<!-- * :seedling: I’m currently learning Scss. -->
+
 * :telescope: I’m currently working on Web Based Projects in Django.
-<!-- * :school: Want to learn React. -->
 * :seedling: Currently learning react
 * :dancers: I’m looking to collaborate in Angular and Javascript.
 * :mailbox: You can reach me at: m.otieno205@gmail.com. 
