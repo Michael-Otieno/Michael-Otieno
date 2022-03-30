@@ -5,7 +5,8 @@ ___
 
 <!--#### Software Engineer
 I can help you solve a software problem, build a product or grow an existing product.-->
-_I love web development because it gives me a chance to_ **learn**, **be mentored** _and_ **collaborate** _with other developers in applying tech skills._
+_I'm a **self-motivated** and **disciplined** web developer looking to grow in web development.Excited to **learn**, **be mentored** and **collaborate**.Experienced in **new product development**, **bug resolving** and **improvement of existing products**._
+
 
 <img align="right" width="200" height="150" src="/Coffee.png">
 <!-- * :seedling: I’m currently learning Scss. -->
