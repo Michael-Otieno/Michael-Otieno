@@ -55,7 +55,7 @@ _I'm a **self-motivated** and **disciplined** web developer looking to grow in w
 
 ### Connect With Me 🤝🤝
 [<img src="https://img.shields.io/badge/michael otieno-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/michael-otieno-924157217/)
-[<img src = "https://img.shields.io/badge/@justDoCode-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/justDoCode)
+[<img src = "https://img.shields.io/badge/@mike_can_code-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/@mike_can_code)
 <!--[<img src = "https://img.shields.io/badge/aakarshteja-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/aakarsh.teja)
 [<img src = "https://img.shields.io/badge/aakarshteja-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/aakarshteja/)
 
