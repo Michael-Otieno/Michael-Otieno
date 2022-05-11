@@ -14,10 +14,10 @@ _I'm a **self-motivated** and **disciplined** web developer looking to grow in w
 
 ### About Me 🤓
 
-* :telescope: I’m currently working on Web Based Projects in Django.
-* :seedling: Currently learning react
+* :telescope: I’m currently working on Web Based Projects in Reactjs
+* :seedling: Currently learning react.
 * :dancers: I’m looking to collaborate in Angular and Javascript.
-* :mailbox: You can reach me at: m.otieno205@gmail.com. 
+* :mailbox: You can reach me at: otieno.oduor.michael@gmail.com. 
 * :thought_balloon: My dream is to work at google.
 * ⚡ Fun fact: I love Tech and coffee.
 *  😄 Pronouns: HE/HIM 
