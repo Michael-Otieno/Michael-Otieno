@@ -1,25 +1,36 @@
-<!--### Hi there 👋, I'm Michael Otieno-->
 ___
 
  [<img src="/mike.png" alt="image" width="1000px" height="400px">](https://otieno-mike.netlify.app/dist/index.html)<!--insert portfolio link-->
 
-<!-- _I'm a **self-motivated** and **disciplined** web developer looking to grow in web development.Excited to **learn**, **be mentored** and **collaborate**.Experienced in **new product development**, **bug resolving** and **improvement of existing products**._ -->
+
 _I'm a huge fan of software development and, more broadly, the Internet of Things (IoT). I enjoy learning about new technology trends and working with other developers to solve real-world problems.It's a pleasure finding best solutions using software._
 
 
 <img align="right" width="200" height="150" src="/Coffee.png">
-<!-- * :seedling: I’m currently learning Scss. -->
-<!-- * :school: Want to learn React. -->
 
-### About Me 🤓
+### Check out Tools I Use :wrench:
+[<img src="https://img.shields.io/badge/github-%777BB4.svg?style=for-the-badge&logo=github&logoColor=white&color=21262d" />](https://github.com/Michael-Otieno)
+[<img src="https://img.shields.io/badge/Codesandbox-%3776AB.svg?style=for-the-badge&logo=codesandbox&logoColor=white&color=563D7C" />](https://codesandbox.io/dashboard/home?workspace=a8563513-7858-4969-ad31-fbe90d95fba1)
+[<img src="https://img.shields.io/badge/Codepen-%3776AB.svg?style=for-the-badge&logo=codepen&logoColor=white&color=E34F26" />](https://codepen.io/michael-otieno)
 
-* :telescope: I’m currently working on Web Based Projects in Reactjs
-* :seedling: Currently learning react.
-* :mailbox: You can reach me at: otieno.oduor.michael@gmail.com. 
-* :thought_balloon: My dream is to work at google.
-* ⚡ Fun fact: I'm addicted to coding.
-*  😄 Pronouns: HE/HIM 
+### Check My writings :✍🏽:
+[<img src="https://img.shields.io/badge/hashnode-%7396.svg?style=for-the-badge&logo=hashnode&color=FF2D20" />](https://devmike.hashnode.dev/)
 
+### Connect With Me 🤝🤝
+[<img src="https://img.shields.io/badge/linkedin-%F7DF1E.svg?style=for-the-badge&logo=linkedin&logoColor=black&color=F7DF1E" />](https://www.linkedin.com/in/michael-otieno-924157217/)
+[<img src = "https://img.shields.io/badge/twitter-%1572B6.svg?style=for-the-badge&logo=twitter&logoColor=white&color=1572B6">](https://twitter.com/@mike_can_code)
+
+### Github Stats :bar_chart:
+<p align="center"> 
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Michael-Otieno&show_icons=true&theme=radical" alt="Github stats" /> 
+   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Otieno&theme=radical" /> 
+   <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=Michael-Otieno&theme=radical" /> 
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Otieno&theme=radical" /> 
+</p>
+
+
+
+<!-- 
 ### My Skills :rocket:
 ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
@@ -31,29 +42,21 @@ _I'm a huge fan of software development and, more broadly, the Internet of Thing
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=3776AB&color=f29221)
 ![Django](https://img.shields.io/badge/django-%7396.svg?style=for-the-badge&logo=django&logoColor=white&color=0C3C26)
 ![Flask](https://img.shields.io/badge/flask-%7396.svg?style=for-the-badge&logo=flask&logoColor=black&color=white)
-![Markdown](https://img.shields.io/badge/markdown-%7396.svg?style=for-the-badge&logo=markdown&logoColor=white&color=blue)
+![Markdown](https://img.shields.io/badge/markdown-%7396.svg?style=for-the-badge&logo=markdown&logoColor=white&color=blue) -->
 
 <!-- ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=f29221) -->
-
+<!-- 
 ### Tools I Use :wrench:
 ![Ubuntu VM](https://img.shields.io/badge/Ubuntu%20VM-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%777BB4.svg?style=for-the-badge&logo=figma&logoColor=white&color=0acf83)
-![Github](https://img.shields.io/badge/github-%777BB4.svg?style=for-the-badge&logo=github&logoColor=white&color=21262d)
+![Figma](https://img.shields.io/badge/figma-%777BB4.svg?style=for-the-badge&logo=figma&logoColor=white&color=0acf83) -->
 
 
-### Github Stats :bar_chart:
-<p align="center"> 
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Michael-Otieno&show_icons=true&theme=radical" alt="Github stats" /> 
-   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Otieno&theme=radical" /> 
-   <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=Michael-Otieno&theme=radical" /> 
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Otieno&theme=radical" /> 
-</p>
 
-
+<!-- 
 ### Connect With Me 🤝🤝
 [<img src="https://img.shields.io/badge/michael otieno-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/michael-otieno-924157217/)
-[<img src = "https://img.shields.io/badge/@mike_can_code-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/@mike_can_code)
+[<img src = "https://img.shields.io/badge/@mike_can_code-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/@mike_can_code) -->
 <!--[<img src = "https://img.shields.io/badge/aakarshteja-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/aakarsh.teja)
 [<img src = "https://img.shields.io/badge/aakarshteja-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/aakarshteja/)
 
