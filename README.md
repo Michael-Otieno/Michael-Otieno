@@ -3,9 +3,8 @@ ___
 
  [<img src="/mike.png" alt="image" width="1000px" height="400px">](https://otieno-mike.netlify.app/dist/index.html)<!--insert portfolio link-->
 
-<!--#### Software Engineer
-I can help you solve a software problem, build a product or grow an existing product.-->
-_I'm a **self-motivated** and **disciplined** web developer looking to grow in web development.Excited to **learn**, **be mentored** and **collaborate**.Experienced in **new product development**, **bug resolving** and **improvement of existing products**._
+<!-- _I'm a **self-motivated** and **disciplined** web developer looking to grow in web development.Excited to **learn**, **be mentored** and **collaborate**.Experienced in **new product development**, **bug resolving** and **improvement of existing products**._ -->
+_I'm a huge fan of software development and, more broadly, the Internet of Things (IoT). I enjoy learning about new technology trends and working with other developers to solve real-world problems.It's a pleasure finding best solutions using software._
 
 
 <img align="right" width="200" height="150" src="/Coffee.png">
@@ -16,7 +15,6 @@ _I'm a **self-motivated** and **disciplined** web developer looking to grow in w
 
 * :telescope: I’m currently working on Web Based Projects in Reactjs
 * :seedling: Currently learning react.
-* :dancers: I’m looking to collaborate in Angular and Javascript.
 * :mailbox: You can reach me at: otieno.oduor.michael@gmail.com. 
 * :thought_balloon: My dream is to work at google.
 * ⚡ Fun fact: I love Tech and coffee.
