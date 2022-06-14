@@ -17,7 +17,7 @@ _I'm a huge fan of software development and, more broadly, the Internet of Thing
 * :seedling: Currently learning react.
 * :mailbox: You can reach me at: otieno.oduor.michael@gmail.com. 
 * :thought_balloon: My dream is to work at google.
-* ⚡ Fun fact: I love Tech and coffee.
+* ⚡ Fun fact: I'm addicted to coding.
 *  😄 Pronouns: HE/HIM 
 
 ### My Skills :rocket:
