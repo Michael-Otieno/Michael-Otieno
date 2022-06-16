@@ -1,6 +1,6 @@
 ___
 
- [<img src="/will.png" alt="image" width="1000px" height="400px">](https://otieno-mike.netlify.app/dist/index.html)<!--insert portfolio link-->
+ [<img src="/will.png" alt="image" width="1000px" height="400px">](https://otieno-mike.netlify.app/)<!--insert portfolio link-->
 
 
 _I'm a huge fan of software development and, more broadly, the Internet of Things (IoT). I enjoy learning about new technology trends and working with other developers to solve real-world problems.It's a pleasure finding best solutions using software._
