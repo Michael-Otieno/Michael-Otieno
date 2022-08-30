@@ -1,9 +1,13 @@
 ___
 
- [<img src="/will.png" alt="image" width="1000px" height="400px">](https://otieno-mike.netlify.app/)<!--insert portfolio link-->
+<!-- [<img src="/will.png" alt="image" width="1000px" height="400px">](https://otieno-mike.netlify.app/)<!--insert portfolio link--> 
 
-
-_I'm a huge fan of software development and, more broadly, the Internet of Things (IoT). I enjoy learning about new technology trends and working with other developers to solve real-world problems.It's a pleasure finding best solutions using software._
+### Hi,
+### I'm Michael Otieno
+_I'm a well-organized, creative, and hardworking individual who is always eager to learn and advance to
+the level required by the job. I have experience in customer service, marketing as well as software
+development. Furthermore, I am always looking for ways to broaden my skill set and apply what I learn to
+increase company profitability._
 
 
 <img align="right" width="200" height="150" src="/Coffee.png">
@@ -13,8 +17,8 @@ _I'm a huge fan of software development and, more broadly, the Internet of Thing
 [<img src="https://img.shields.io/badge/Codesandbox-%3776AB.svg?style=for-the-badge&logo=codesandbox&logoColor=white&color=563D7C" />](https://codesandbox.io/dashboard/home?workspace=a8563513-7858-4969-ad31-fbe90d95fba1)
 [<img src="https://img.shields.io/badge/Codepen-%3776AB.svg?style=for-the-badge&logo=codepen&logoColor=white&color=E34F26" />](https://codepen.io/michael-otieno)
 
-### Check My writings ✍🏽
-[<img src="https://img.shields.io/badge/hashnode-%7396.svg?style=for-the-badge&logo=hashnode&color=FF2D20" />](https://devmike.hashnode.dev/)
+<!--### Check My writings ✍🏽-->
+<!--[<img src="https://img.shields.io/badge/hashnode-%7396.svg?style=for-the-badge&logo=hashnode&color=FF2D20" /](https://devmike.hashnode.dev/)-->
 
 ### Connect With Me 🤝🤝
 [<img src="https://img.shields.io/badge/linkedin-%F7DF1E.svg?style=for-the-badge&logo=linkedin&logoColor=black&color=F7DF1E" />](https://www.linkedin.com/in/michael-otieno-924157217/)
