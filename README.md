@@ -26,8 +26,8 @@ increase company profitability._
 
 ### Github Stats :bar_chart:
 <p align="center"> 
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Michael-Otieno&show_icons=true&theme=radical" alt="Github stats" /> 
-   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Otieno&theme=radical" /> 
+   <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=Michael-Otieno&show_icons=true&theme=radical" alt="Github stats" /> 
+   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Otieno&theme=radical" /> 
    <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=Michael-Otieno&theme=radical" /> 
    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Otieno&theme=radical" /> 
 </p>
