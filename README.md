@@ -12,10 +12,10 @@ increase company profitability._
 
 <img align="right" width="200" height="150" src="/Coffee.png">
 
-### Check out Tools I Use :wrench:
+<!--### Check out Tools I Use :wrench:
 [<img src="https://img.shields.io/badge/github-%777BB4.svg?style=for-the-badge&logo=github&logoColor=white&color=21262d" />](https://github.com/Michael-Otieno?tab=repositories)
 [<img src="https://img.shields.io/badge/Codesandbox-%3776AB.svg?style=for-the-badge&logo=codesandbox&logoColor=white&color=563D7C" />](https://codesandbox.io/dashboard/home?workspace=a8563513-7858-4969-ad31-fbe90d95fba1)
-[<img src="https://img.shields.io/badge/Codepen-%3776AB.svg?style=for-the-badge&logo=codepen&logoColor=white&color=E34F26" />](https://codepen.io/michael-otieno)
+[<img src="https://img.shields.io/badge/Codepen-%3776AB.svg?style=for-the-badge&logo=codepen&logoColor=white&color=E34F26" /](https://codepen.io/michael-otieno)-->
 
 <!--### Check My writings ✍🏽-->
 <!--[<img src="https://img.shields.io/badge/hashnode-%7396.svg?style=for-the-badge&logo=hashnode&color=FF2D20" /](https://devmike.hashnode.dev/)-->
