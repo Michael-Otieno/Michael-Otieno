@@ -34,21 +34,25 @@ increase company profitability._
 
 
 
-<!-- 
+
 ### My Skills :rocket:
 ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
+![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
+![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
-![Angular](https://img.shields.io/badge/angular-%7396.svg?style=for-the-badge&logo=angular&color=FF2D20)
+![Reactjs](https://img.shields.io/badge/react-%7396.svg?style=for-the-badge&logo=react&color=FF2D20)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
-![PostgreSql](https://img.shields.io/badge/postresql-%3776AB.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=4479A1)
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=3776AB&color=f29221)
 ![Django](https://img.shields.io/badge/django-%7396.svg?style=for-the-badge&logo=django&logoColor=white&color=0C3C26)
-![Flask](https://img.shields.io/badge/flask-%7396.svg?style=for-the-badge&logo=flask&logoColor=black&color=white)
-![Markdown](https://img.shields.io/badge/markdown-%7396.svg?style=for-the-badge&logo=markdown&logoColor=white&color=blue) -->
+![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=f29221)
+![PostgreSql](https://img.shields.io/badge/postresql-%3776AB.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=4479A1)
+<!-- ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624) -->
 
-<!-- ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=f29221) -->
+<!-- ![Flask](https://img.shields.io/badge/flask-%7396.svg?style=for-the-badge&logo=flask&logoColor=black&color=white) -->
+<!-- ![Markdown](https://img.shields.io/badge/markdown-%7396.svg?style=for-the-badge&logo=markdown&logoColor=white&color=blue) -->
+
+
+
 <!-- 
 ### Tools I Use :wrench:
 ![Ubuntu VM](https://img.shields.io/badge/Ubuntu%20VM-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
