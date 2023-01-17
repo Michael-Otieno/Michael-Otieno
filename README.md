@@ -24,13 +24,13 @@ increase company profitability._
 [<img src="https://img.shields.io/badge/linkedin-%F7DF1E.svg?style=for-the-badge&logo=linkedin&logoColor=black&color=F7DF1E" />](https://www.linkedin.com/in/michael-otieno-924157217/)
 [<img src = "https://img.shields.io/badge/twitter-%1572B6.svg?style=for-the-badge&logo=twitter&logoColor=white&color=1572B6">](https://twitter.com/@mike_can_code)
 
-### Github Stats :bar_chart:
+<!-- ### Github Stats :bar_chart:
 <p align="center"> 
    <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=Michael-Otieno&show_icons=true&theme=radical" alt="Github stats" /> 
    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Otieno&theme=radical" /> 
    <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=Michael-Otieno&theme=radical" /> 
    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Otieno&theme=radical" /> 
-</p>
+</p> -->
 
 
 
