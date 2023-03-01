@@ -16,9 +16,8 @@
 
 <br/>
 
-<h1>Overview</h1>
+### <h2 align="left">Get to know me</h2>
 
-### Get to know me
 
 💬 I'm a **front end web developer.**
 
@@ -42,9 +41,9 @@
 <br />
   
 
-<h1>My experience</h1>
+<h2 align="left">My experience</h2>
 
-<h2 align="left">Project Elewa group website</h2>
+<h3 align="left">Project Elewa group website</h3>
 <p align="right"><b>2023</b></p>
 <p>
   The Elewa "Conversational Learning Manager" is a Learning Management System (LMS) which allows organisations to design courses based on chat bots (through a visual editor).
