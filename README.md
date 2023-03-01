@@ -1,78 +1,72 @@
-___
+<h1 align="center">Hi 👋, I'm Michael Otieno</h1>
 
-<!-- [<img src="/will.png" alt="image" width="1000px" height="400px">](https://otieno-mike.netlify.app/)<!--insert portfolio link--> 
+<h3 align="center">A graduate from Moringa, working with iTalanta open-source!
+</h3>
 
-### Hi,
-### I'm Michael Otieno
-_I'm a well-organized, creative, and hardworking individual who is always eager to learn and advance to
-the level required by the job. I have experience in customer service, marketing as well as software
-development. Furthermore, I am always looking for ways to broaden my skill set and apply what I learn to
-increase company profitability._
+<br/>
 
 
-<img align="right" width="200" height="150" src="/Coffee.png">
+<p align="left" style=""> 
+   
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/michael-oduor-otieno/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="michael otieno's LinkedIn" /></a> 
+<a href="https://twitter.com/mikeotyeno" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="mikeotyeno's Twitter" /></a> 
+ <a href="https://stackoverflow.com/users/16892277/mike" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="mikeotyeno's Stack Overflow" /></a> 
+</p>
 
-<!--### Check out Tools I Use :wrench:
-[<img src="https://img.shields.io/badge/github-%777BB4.svg?style=for-the-badge&logo=github&logoColor=white&color=21262d" />](https://github.com/Michael-Otieno?tab=repositories)
-[<img src="https://img.shields.io/badge/Codesandbox-%3776AB.svg?style=for-the-badge&logo=codesandbox&logoColor=white&color=563D7C" />](https://codesandbox.io/dashboard/home?workspace=a8563513-7858-4969-ad31-fbe90d95fba1)
-[<img src="https://img.shields.io/badge/Codepen-%3776AB.svg?style=for-the-badge&logo=codepen&logoColor=white&color=E34F26" /](https://codepen.io/michael-otieno)-->
+<br/>
 
-<!--### Check My writings ✍🏽-->
-<!--[<img src="https://img.shields.io/badge/hashnode-%7396.svg?style=for-the-badge&logo=hashnode&color=FF2D20" /](https://devmike.hashnode.dev/)-->
+<h1>Overview</h1>
 
-### Connect With Me 🤝🤝
-[<img src="https://img.shields.io/badge/linkedin-%F7DF1E.svg?style=for-the-badge&logo=linkedin&logoColor=black&color=F7DF1E" />](https://www.linkedin.com/in/michael-otieno-924157217/)
-[<img src = "https://img.shields.io/badge/twitter-%1572B6.svg?style=for-the-badge&logo=twitter&logoColor=white&color=1572B6">](https://twitter.com/@mike_can_code)
+### Get to know me
 
-<!-- ### Github Stats :bar_chart:
-<p align="center"> 
-   <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=Michael-Otieno&show_icons=true&theme=radical" alt="Github stats" /> 
-   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Michael-Otieno&theme=radical" /> 
-   <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=Michael-Otieno&theme=radical" /> 
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Otieno&theme=radical" /> 
-</p> -->
+💬 I'm a **front end web developer.**
 
+📝 I write articles on [https://oti.hashnode.dev/](https://oti.hashnode.dev/)
+<!--📄 Know about my experiences [through my CV](about/resume.md)-->
 
+🌱 I’m currently learning **Redux toolkit**.
 
+ ### My work
 
-### My Skills :rocket:
-![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
-![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
-![Reactjs](https://img.shields.io/badge/react-%7396.svg?style=for-the-badge&logo=react&color=FF2D20)
-![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=3776AB&color=f29221)
-![Django](https://img.shields.io/badge/django-%7396.svg?style=for-the-badge&logo=django&logoColor=white&color=0C3C26)
-![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=f29221)
-![PostgreSql](https://img.shields.io/badge/postresql-%3776AB.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=4479A1)
-<!-- ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624) -->
-
-<!-- ![Flask](https://img.shields.io/badge/flask-%7396.svg?style=for-the-badge&logo=flask&logoColor=black&color=white) -->
-<!-- ![Markdown](https://img.shields.io/badge/markdown-%7396.svg?style=for-the-badge&logo=markdown&logoColor=white&color=blue) -->
+🔭 I’m currently working on [Elewa](https://github.com/italanta/elewa-group/)
+ 
 
 
+👨‍💻 Review my projects at [https://github.com/Michael-Otieno](https://github.com/Michael-Otieno)
 
-<!-- 
-### Tools I Use :wrench:
-![Ubuntu VM](https://img.shields.io/badge/Ubuntu%20VM-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%777BB4.svg?style=for-the-badge&logo=figma&logoColor=white&color=0acf83) -->
+### Interested ?
+
+📫 Reach me on **m.otieno205@gmail.com**
+
+<br />
+  
+
+<h1>My experience</h1>
+
+<h2 align="left">Project Elewa group website</h2>
+<p align="right"><b>2023</b></p>
+<p>
+  The Elewa "Conversational Learning Manager" is a Learning Management System (LMS) which allows organisations to design courses based on chat bots (through a visual editor).
+</p> 
+<br/>
+
+### My contributions
+| Date     	| Issue 	| Status 	| Link 	|
+|----------	|-------	|--------	|------	|
+| 15/02/23 	| 🏇 created a responsive Website footer | Closed/Approved | [#15](https://github.com/italanta/elewa-group/issues/15) |
+| 01/03/23 	| 🏇 created a responsive stakeholder section | Closed/Approved | [#320](https://github.com/italanta/elewa-group/issues/320) |
 
 
+### The technologies I use
 
-<!-- 
-### Connect With Me 🤝🤝
-[<img src="https://img.shields.io/badge/michael otieno-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/michael-otieno-924157217/)
-[<img src = "https://img.shields.io/badge/@mike_can_code-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/@mike_can_code) -->
-<!--[<img src = "https://img.shields.io/badge/aakarshteja-%181717.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=1877F2">](https://www.facebook.com/aakarsh.teja)
-[<img src = "https://img.shields.io/badge/aakarshteja-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/aakarshteja/)
-
-
+<p style="margin-top:10px"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/85155606/222123561-d065a9f8-8b33-4bae-ac90-06ce812d2e69.png" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/85155606/222124184-17ac69b1-7b2e-4b7d-bb26-c60c456a044f.png" alt="bootstrap" width="40" height="40"/> </a>
+</p>
 
 
+<h2 align="left">My GitHub Overview</h2>
 
-
-
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-otieno&show_icons=true&locale=en" alt="michael-otieno" /></p>
