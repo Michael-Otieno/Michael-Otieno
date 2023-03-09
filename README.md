@@ -20,9 +20,9 @@
 
 
 💬 I'm a **front end web developer.**
-
-📝 I write articles on [https://oti.hashnode.dev/](https://oti.hashnode.dev/)
-<!--📄 Know about my experiences [through my CV](about/resume.md)-->
+📝 I write articles on [https://devmike.hashnode.dev/](https://devmike.hashnode.dev/)
+<!--📝 I write articles on [https://oti.hashnode.dev/](https://oti.hashnode.dev/)
+📄 Know about my experiences [through my CV](about/resume.md)-->
 
 🌱 I’m currently learning **Redux toolkit**.
 
@@ -42,20 +42,14 @@
   
 
 <h2 align="left">My experience</h2>
-
 <h3 align="left">Project Elewa group website</h3>
-<p align="right"><b>2023</b></p>
-<p>
-  The Elewa "Conversational Learning Manager" is a Learning Management System (LMS) which allows organisations to design courses based on chat bots (through a visual editor).
-</p> 
-<br/>
 
-### My contributions
+### My contributions 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
 | 15/02/23 	| 🏇 created a responsive Website footer | Closed/Approved | [#15](https://github.com/italanta/elewa-group/issues/15) |
 | 01/03/23 	| 🏇 created a responsive stakeholder section | Closed/Approved | [#320](https://github.com/italanta/elewa-group/issues/320) |
-
+| 08/03/23 	| 🏇 created a responsive Venture labs info section | Closed/Approved | [#421](https://github.com/italanta/elewa-group/issues/421) |
 
 ### The technologies I use
 
