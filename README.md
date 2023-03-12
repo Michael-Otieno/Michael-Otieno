@@ -20,6 +20,7 @@
 
 
 💬 I'm a **front end web developer.**
+
 📝 I write articles on [https://devmike.hashnode.dev/](https://devmike.hashnode.dev/)
 <!--📝 I write articles on [https://oti.hashnode.dev/](https://oti.hashnode.dev/)
 📄 Know about my experiences [through my CV](about/resume.md)-->
