@@ -43,14 +43,30 @@
   
 
 ### <h2 align="left">My experience</h2>
-<h3 align="left">Project Elewa group website</h3>
+<h3 align="left">Elewa group website</h3>
 
 ### My contributions 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 15/02/23 	| 🏇 created a responsive Website footer | Closed/Approved | [#15](https://github.com/italanta/elewa-group/issues/15) |
-| 01/03/23 	| 🏇 created a responsive stakeholder section | Closed/Approved | [#320](https://github.com/italanta/elewa-group/issues/320) |
-| 08/03/23 	| 🏇 created a responsive Venture labs info section | Closed/Approved | [#421](https://github.com/italanta/elewa-group/issues/421) |
+| 15/02/23 	| 🏇 created a responsive Website footer | Merged | [#15](https://github.com/italanta/elewa-group/issues/15) |
+| 01/03/23 	| 🏇 created a responsive stakeholder section | Merged | [#320](https://github.com/italanta/elewa-group/issues/320) |
+| 08/03/23 	| 🏇 created a responsive Venture labs info section | Merged | [#421](https://github.com/italanta/elewa-group/issues/421) |
+
+
+<h3 align="left">Project Elewa</h3>
+
+<p>
+  The Elewa "Conversational Learning Manager" is a Learning Management System (LMS) which allows organisations to design courses based on chat bots (through a visual editor).
+</p>
+
+### My contributions
+| Date     	| Issue 	| Status 	| Link 	|
+|----------	|-------	|--------	|------	|
+| 20/03/23 	| 🏇 Redesign sidebar menu | Merged | [#349](https://github.com/italanta/elewa/issues/349) |
+<!-- | 01/08/22 	| 🚀 Add serverless backend capabilities | Merged | [#19](https://github.com/italanta/elewa/pull/19) |
+| 12/07/22 	| 🚀 Setup the application | Merged | [#2](https://github.com/italanta/elewa/pull/2) |
+| 11/07/22 	| 🏠 Data model for story and story blocks | Merged | [#1](https://github.com/italanta/elewa/pull/1) | -->
+
 
 ### <h2 align="left">The technologies I use</h2>
 
