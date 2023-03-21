@@ -48,8 +48,8 @@
 ### My contributions 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 15/02/23 	| 🏇 created a responsive Website footer | Merged | [#15](https://github.com/italanta/elewa-group/issues/15) |
-| 01/03/23 	| 🏇 created a responsive stakeholder section | Merged | [#320](https://github.com/italanta/elewa-group/issues/320) |
+| 15/02/23 	| 🏇 created a responsive Website footer | Merged | [#173](https://github.com/italanta/elewa-group/issues/173) |
+| 01/03/23 	| 🏇 created a responsive stakeholder section | Merged | [#360](https://github.com/italanta/elewa-group/issues/360) |
 | 08/03/23 	| 🏇 created a responsive Venture labs info section | Merged | [#421](https://github.com/italanta/elewa-group/issues/421) |
 
 
