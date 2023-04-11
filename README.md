@@ -20,6 +20,7 @@
 
 
 💬 I'm a **Full stack developer.**
+
 🌱 I’m currently learning **Redux toolkit**.
 <!-- 📝 I write articles on [https://devmike.hashnode.dev/](https://devmike.hashnode.dev/) -->
 <!--📝 I write articles on [https://oti.hashnode.dev/](https://oti.hashnode.dev/)
