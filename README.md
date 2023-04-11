@@ -19,13 +19,13 @@
 ### <h2 align="left">Get to know me</h2>
 
 
-💬 I'm a **front end web developer.**
-
-📝 I write articles on [https://devmike.hashnode.dev/](https://devmike.hashnode.dev/)
+💬 I'm a **Full stack developer.**
+🌱 I’m currently learning **Redux toolkit**.
+<!-- 📝 I write articles on [https://devmike.hashnode.dev/](https://devmike.hashnode.dev/) -->
 <!--📝 I write articles on [https://oti.hashnode.dev/](https://oti.hashnode.dev/)
 📄 Know about my experiences [through my CV](about/resume.md)-->
 
-🌱 I’m currently learning **Redux toolkit**.
+
 
  ### <h2 align="left">My work</h2>
 
