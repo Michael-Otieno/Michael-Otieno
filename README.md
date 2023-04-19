@@ -64,9 +64,9 @@
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
 | 20/03/23 	| 🏇 Redesign sidebar menu | Merged | [#369](https://github.com/italanta/elewa/issues/369) |
+| 31/03/22 	| 🏇 App Design: Sign up Page  | Merged | [#391](https://github.com/italanta/elewa/pull/391) |
 | 10/04/23 	| 🏇 Rework Block List UI | Merged | [#413](https://github.com/italanta/elewa/pull/413) |
-<!-- | 12/07/22 	| 🚀 Setup the application | Merged | [#2](https://github.com/italanta/elewa/pull/2) |
-| 11/07/22 	| 🏠 Data model for story and story blocks | Merged | [#1](https://github.com/italanta/elewa/pull/1) | -->
+<!-- | 11/07/22 	| 🏠 Data model for story and story blocks | Merged | [#1](https://github.com/italanta/elewa/pull/1) | -->
 
 
 ### <h2 align="left">The technologies I use</h2>
