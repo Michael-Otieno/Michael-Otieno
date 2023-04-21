@@ -21,7 +21,7 @@
 
 💬 I'm a **Full stack developer.**
 
-🌱 I’m currently learning **Redux toolkit**.
+🌱 I’m currently learning **Firebase**.
 <!-- 📝 I write articles on [https://devmike.hashnode.dev/](https://devmike.hashnode.dev/) -->
 <!--📝 I write articles on [https://oti.hashnode.dev/](https://oti.hashnode.dev/)
 📄 Know about my experiences [through my CV](about/resume.md)-->
