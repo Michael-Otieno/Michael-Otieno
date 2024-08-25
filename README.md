@@ -1,9 +1,9 @@
 <h3 align="left">Hi 👋, I'm Michael Otieno</h3>
 
 
-💬 I'm a **Full stack developer.** and **open-source** contributor. I'm interested in building applications that solve real world problems.
+💬 I'm a **Full stack developer.** and **open-source** contributor. I'm interested in building applications that solve real-world problems.
 
-📝 Typescript and Python are my favourite languages.
+📝 Typescript and Python are my favorite languages.
 
 
 ### <h2 align="left">Online accounts</h2>
