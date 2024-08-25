@@ -5,6 +5,8 @@
 
 📝 Typescript and Python are my favorite languages.
 
+I'm Targeting Angular and Django Restframework Opportunities
+
 
 ### <h2 align="left">Online accounts</h2>
 <p align="left" style=""> 
