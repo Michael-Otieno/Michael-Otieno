@@ -1,14 +1,12 @@
 # Hi, I’m Michael Oduor Otieno 👋
 
 🚀 **Frontend Engineer | Full-stack Developer | Platform Engineer**  
-Building scalable apps with **Angular, Django REST Framework, Kubernetes, Ansible, Terraform, and AWS**.  
+I use **Angular, Django REST Framework, Kubernetes, Ansible, Terraform, and AWS** to create scalable applications.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://michael-oduor-otieno.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-oduor-otieno)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:otieno.oduor.michael@gmail.com)
 
-
----
 
 ## 💻 Tech Stack
 
@@ -34,7 +32,6 @@ Building scalable apps with **Angular, Django REST Framework, Kubernetes, Ansibl
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
----
 
 ## 🏗️ Featured Projects
 
@@ -44,25 +41,19 @@ Building scalable apps with **Angular, Django REST Framework, Kubernetes, Ansibl
 - 🐳 Containerized with Docker  
 - ☸️ Kubernetes manifests + Redis + PostgreSQL  
 - 🔄 CI/CD pipelines with GitHub Actions
-
----
-
-## ☁️ DevOps & Cloud Highlights
 - Provisioned AWS infra with **Terraform & Ansible**  
 - Automated deployments with **GitHub Actions**  
 - Orchestrated services on **Kubernetes (EKS)**  
 - Managed API gateways, load balancers, and Nginx reverse proxies  
 - Set up Redis caching & WebSocket channels for real-time features  
 
----
-
 ## 📊 GitHub Stats
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Otieno&show_icons=true&count_private=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Otieno&layout=compact&theme=tokyonight)  
 
----
+
 
 ## 📫 Connect
-- Portfolio: [michael-oduor-otieno.vercel.app](https://https://michaeloduorotieno.dev/)
-- LinkedIn: [linkedin.com/in/<your-handle>](https://linkedin.com/in/<your-handle>)
+- Portfolio: [www.michaeloduorotieno.dev](https://https://michaeloduorotieno.dev/)
+- LinkedIn: [linkedin.com/in/<your-handle>](https://linkedin.com/in/michael-oduor-otieno)
 - Email: [otieno.oduor.michael@gmail.com](mailto:otieno.oduor.michael@gmail.com)  
