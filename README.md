@@ -1,34 +1,68 @@
-<h3 align="left">Hi 👋, I'm Michael Otieno</h3>
+# Hi, I’m Michael Oduor Otieno 👋
+
+🚀 **Frontend Engineer | Full-stack Developer | Platform Engineer**  
+Building scalable apps with **Angular, Django REST Framework, Kubernetes, Ansible, Terraform, and AWS**.  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://michael-oduor-otieno.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-oduor-otieno)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:otieno.oduor.michael@gmail.com)
 
 
-💬 I'm a **Full stack developer.** and **open-source** contributor. I'm interested in building applications that solve real-world problems.
+---
 
-📝 Typescript and Python are my favorite languages.
+## 💻 Tech Stack
 
-I'm Targeting Angular and Django Restframework Opportunities
+**Frontend**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+**Backend**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-### <h2 align="left">Online accounts</h2>
-<p align="left" style=""> 
-   
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/michael-oduor-otieno/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="michael otieno's LinkedIn" /></a> 
-<a href="https://twitter.com/mikeotyeno" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="mikeotyeno's Twitter" /></a> 
- <a href="https://stackoverflow.com/users/16892277/mike" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="mikeotyeno's Stack Overflow" /></a> 
-</p>
+**DevOps / Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
-<br/>
+---
 
+## 🏗️ Featured Projects
 
-<!--- ### <h2 align="left">The technologies I use</h2>
+### 📌 [Errandhub](https://github.com/Michael-Otieno/errandhub-frontend)  
+- 🖥️ Frontend in Angular  
+- ⚙️ Backend with Django REST Framework  
+- 🐳 Containerized with Docker  
+- ☸️ Kubernetes manifests + Redis + PostgreSQL  
+- 🔄 CI/CD pipelines with GitHub Actions
 
-<p style="margin-top:10px"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/85155606/222123561-d065a9f8-8b33-4bae-ac90-06ce812d2e69.png" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/85155606/222124184-17ac69b1-7b2e-4b7d-bb26-c60c456a044f.png" alt="bootstrap" width="40" height="40"/> </a>
-</p>
+---
 
+## ☁️ DevOps & Cloud Highlights
+- Provisioned AWS infra with **Terraform & Ansible**  
+- Automated deployments with **GitHub Actions**  
+- Orchestrated services on **Kubernetes (EKS)**  
+- Managed API gateways, load balancers, and Nginx reverse proxies  
+- Set up Redis caching & WebSocket channels for real-time features  
 
-### <h2 align="left">My GitHub Overview</h2>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michael-otieno&show_icons=true&locale=en" alt="michael-otieno" /></p>-->
+## 📊 GitHub Stats
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Otieno&show_icons=true&count_private=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Otieno&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Connect
+- Portfolio: [michael-oduor-otieno.vercel.app](https://https://michaeloduorotieno.dev/)
+- LinkedIn: [linkedin.com/in/<your-handle>](https://linkedin.com/in/<your-handle>)
+- Email: [otieno.oduor.michael@gmail.com](mailto:otieno.oduor.michael@gmail.com)  
