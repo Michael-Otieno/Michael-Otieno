@@ -1,6 +1,6 @@
 # Hi, I’m Michael Oduor Otieno 👋
 
-🚀 **Frontend Engineer | Full-stack Developer | Platform Engineer**  
+🚀 **Full-stack Developer | Devops & Cloud Engineer**  
 I use **Angular, Django REST Framework, Kubernetes, Ansible, Terraform, and AWS** to create scalable applications.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://michael-oduor-otieno.vercel.app)
