@@ -1,7 +1,11 @@
 # Hi, I’m Michael Oduor Otieno 👋
 
 🚀 **Full-stack Developer | Devops & Cloud Engineer**  
-I use **Angular, Django REST Framework, Kubernetes, Ansible, Terraform, and AWS** to create scalable applications.
+I help **startups** build and scale modern applications that grow with their users—without the headaches of fragile code, costly downtime, or manual deployments.
+
+With experience in **full-stack development** and **DevOps**, I bring the speed and flexibility that startups need to go from idea to production. I design interactive and secure systems, then automate everything from testing to deployment using CI/CD pipelines, containers, and cloud infrastructure.
+
+I’m passionate about building systems that don’t just work but also scale. I **help teams launch faster, operate smoothly, and focus on their product**, not their pipelines. I’m on a mission to help startups move from MVPs to production-ready, secure, and resilient systems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://michael-oduor-otieno.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-oduor-otieno)
