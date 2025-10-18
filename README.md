@@ -38,12 +38,12 @@ I’m passionate about building systems that don’t just work but also scale. I
 ## 🏗️ Featured Projects
 
 ### 📌 [Errandhub](https://github.com/Michael-Otieno/errandhub-frontend)  
-- 🖥️ Frontend in Angular  
-- ⚙️ Backend with Django REST Framework  
+- 🖥️ Frontend in Angular [code link](https://github.com/errand-helper/errandhelper-app)
+- ⚙️ Backend with Django REST Framework  [code link](https://github.com/errand-helper/errandhelper-backend)
 - 🐳 Containerized with Docker  
-- ☸️ Kubernetes manifests + Redis + PostgreSQL  
+- ☸️ Kubernetes manifests + Redis + PostgreSQL  [code link](https://github.com/errand-helper/manifest-lab)
 - 🔄 CI/CD pipelines with GitHub Actions
-- Provisioned AWS infra with **Terraform & Ansible**  
+- Provisioned AWS infra with **Terraform [code link](https://github.com/errand-helper/terraform) & Ansible**  [code link](https://github.com/errand-helper/iac)
 - Automated deployments with **GitHub Actions**  
 - Orchestrated services on **Kubernetes (EKS)**  
 - Managed API gateways, load balancers, and Nginx reverse proxies  
