@@ -1,9 +1,9 @@
 # Hi, I’m Michael Oduor Otieno 👋
 
 🚀 **Full-stack Developer | Devops & Cloud Engineer**  
-I help **startups** build and scale modern applications that grow with their users—without the headaches of fragile code, costly downtime, or manual deployments.
+I help build and scale modern applications that grow with their users—without the headaches of fragile code, costly downtime, or manual deployments.
 
-I’m passionate about building systems that don’t just work but also scale. I **help teams launch faster, operate smoothly, and focus on their product**, not their pipelines. I’m on a mission to help startups move from MVPs to production-ready, secure, and resilient systems.
+I’m passionate about building systems that don’t just work but also scale. I **help teams launch faster, operate smoothly, and focus on their product**, not their pipelines. I’m on a mission to help move from MVPs to production-ready, secure, and resilient systems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://michael-oduor-otieno.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-oduor-otieno)
