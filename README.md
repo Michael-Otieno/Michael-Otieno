@@ -49,13 +49,9 @@ I’m passionate about building systems that don’t just work but also scale. I
 - Managed API gateways, load balancers, and Nginx reverse proxies  
 - Set up Redis caching & WebSocket channels for real-time features  
 
-## 📊 GitHub Stats
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Otieno&show_icons=true&count_private=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Otieno&layout=compact&theme=tokyonight)  
-
-
 
 ## 📫 Connect
 - Portfolio: [www.michaeloduorotieno.dev](https://https://michaeloduorotieno.dev/)
 - LinkedIn: [linkedin.com/in/<your-handle>](https://linkedin.com/in/michael-oduor-otieno)
+- Articles: [medium](https://medium.com/@michael-oduor)
 - Email: [otieno.oduor.michael@gmail.com](mailto:otieno.oduor.michael@gmail.com)  
