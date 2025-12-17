@@ -1,13 +1,13 @@
 # Hi, I’m Michael Oduor Otieno 👋
 
 🚀 **Full-stack Developer | Devops & Cloud Engineer**  
-I help build and scale modern applications that grow with their users—without the headaches of fragile code, costly downtime, or manual deployments.
 
-I’m passionate about building systems that don’t just work but also scale. I **help teams launch faster, operate smoothly, and focus on their product**, not their pipelines. I’m on a mission to help move from MVPs to production-ready, secure, and resilient systems.
+I’m passionate about building systems that don’t just work but also scale. I **help teams launch faster, operate smoothly, and focus on their product**, not their pipelines. 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://michael-oduor-otieno.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23007ACC.svg?&style=for-the-badge)](https://https://michaeloduorotieno.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-oduor-otieno)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:otieno.oduor.michael@gmail.com)
+[![Articles](https://img.shields.io/badge/Medium-black?style=for-the-badge)](mailto:otieno.oduor.michael@gmail.com)
 
 
 ## 💻 Tech Stack
@@ -37,13 +37,13 @@ I’m passionate about building systems that don’t just work but also scale. I
 
 ## 🏗️ Featured Projects
 
-### 📌 [Errandhub](https://github.com/Michael-Otieno/errandhub-frontend)  
-- 🖥️ Frontend in Angular 
-- ⚙️ Backend with Django REST Framework  
+### 📌 Errandhub  
+- 🖥️ Frontend in Angular [code link](https://github.com/errand-helper/errandhelper-app)
+- ⚙️ Backend with Django REST Framework  [code link](https://github.com/errand-helper/errandhelper-backend)
 - 🐳 Containerized with Docker  
-- ☸️ Kubernetes manifests + Redis + PostgreSQL  [code link](https://github.com/errand-helper/manifest-lab)
+- ☸️ Kubernetes manifests + Redis + PostgreSQL  
 - 🔄 CI/CD pipelines with GitHub Actions
-- Provisioned AWS infra with **Terraform [code link](https://github.com/errand-helper/terraform) & Ansible**  [code link](https://github.com/errand-helper/iac)
+- Provisioned AWS infra with **Terraform** 
 - Automated deployments with **GitHub Actions**  
 - Orchestrated services on **Kubernetes (EKS)**  
 - Managed API gateways, load balancers, and Nginx reverse proxies  
